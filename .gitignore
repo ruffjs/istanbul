@@ -12,6 +12,7 @@ pids
 logs
 results
 
+ruff_modules/
 node_modules/
 bower_components/
 .idea/
