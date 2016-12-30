@@ -132,17 +132,17 @@
     },
     "ruff": {
         "dependencies": {
-            "abbrev": "npm:^1.0.9",
-            "async": "npm:^2.0.1",
-            "escodegen": "npm:^1.8.1",
-            "esprima": "npm:^3.0.0",
-            "glob": "npm:^7.0.6",
-            "handlebars": "npm:^4.0.5",
-            "js-yaml": "npm:^3.6.1",
-            "nopt": "npm:^3.0.6",
-            "once": "npm:^1.4.0",
-            "resolve": "npm:^1.1.7",
-            "wordwrap": "npm:^1.0.0",
+            "abbrev": "npm:1.0.9",
+            "async": "npm:2.0.1",
+            "escodegen": "npm:1.8.1",
+            "esprima": "npm:3.0.0",
+            "glob": "npm:7.0.6",
+            "handlebars": "npm:4.0.5",
+            "js-yaml": "npm:3.6.1",
+            "nopt": "npm:3.0.6",
+            "once": "npm:1.4.0",
+            "resolve": "npm:1.1.7",
+            "wordwrap": "npm:1.0.0",
             "mkdirp": "^0.5.1"
         },
         "devDependencies": {}
